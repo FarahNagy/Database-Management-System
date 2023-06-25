@@ -1,0 +1,7 @@
+Students,gpa,java.lang.double,False,null,null,0.0,4.0
+Students,age,java.lang.Integer,False,null,null,10,50
+Students,lname,java.lang.String,False,null,null,A,Z
+Students,gender,java.lang.Integer,False,null,null,0,1
+Students,dob,java.util.date,False,null,null,2000-01-01,2024-01-01
+Students,fname,java.lang.String,False,null,null,A,Z
+Students,id,java.lang.Integer,True,null,null,0,20
